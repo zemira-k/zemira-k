@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif?cid=ecf05e47gqssgz2wamy1f0nh3b0gxooawmt7f8mx5if6l7f4&rid=giphy.gif&ct=s" width="350"/> 
+  <img src="https://media4.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif?cid=ecf05e47gqssgz2wamy1f0nh3b0gxooawmt7f8mx5if6l7f4&rid=giphy.gif&ct=s" width="250"/> 
   <div id="badges">
     <a href="http://www.linkedin.com/in/zemira-kehati">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
