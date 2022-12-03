@@ -29,6 +29,6 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://desolate-harbor-35075.herokuapp.com/?user=zemira-k&theme=dark&background=000000)](https://git.io/streak-stats)
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zemira-k&show_icons=true&theme=radical&include_all_commits=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zemira-k)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zemira-k&show_icons=true&theme=radical&include_all_commits=true)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zemira-k&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
