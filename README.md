@@ -16,7 +16,7 @@
 
 - :telescope: I’m contributing to frontend and backend for building web applications.
 
-- :mailbox: How to reach me: kehati10@gmail.com / +972547605849
+- :mailbox: How to reach me: kehati10@gmail.com / +15703287947
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
