@@ -12,7 +12,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-- :wave: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
+- :wave: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I’m contributing to frontend and backend for building web applications.
 
